@@ -29,6 +29,13 @@ Users should be able to:
 
 The app was created using React. It has the functionality and it works as intended. I had some issues getting the favicon but I converted it to .ico and changed the name and worked like a charm.
 
+![](./screenshots/1.png)
+
+![](./screenshots/2.png)
+
+![](./screenshots/3.png)
+
+
 ### Links
 
 - Solution URL: [GitHub - Code](https://github.com/NovaFugaz/advice-gen-app)
