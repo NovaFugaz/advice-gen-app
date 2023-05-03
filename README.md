@@ -75,7 +75,7 @@ Also the structure of the React App was interesting to see.
 
 ### Useful resources
 
-- [Advice Generator App with React](https://www.youtube.com/watch?v=KYOi96jzPSA)) - This video helped me to do this challenge with React, as I had no previous experience with it.
+- [Advice Generator App with React](https://www.youtube.com/watch?v=KYOi96jzPSA) - This video helped me to do this challenge with React, as I had no previous experience with it.
 
 ## Author
 
